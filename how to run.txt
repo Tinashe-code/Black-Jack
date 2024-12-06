@@ -1,0 +1,4 @@
+How to run the program
+
+After successfully installing the package you look for an .exe file named "Black Jack" then 
+you click on that file to start the program.
